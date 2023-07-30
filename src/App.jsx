@@ -9,8 +9,9 @@ function App() {
       <h1>Garrett Washington</h1>
       <h2>cycle 21</h2>
       <h3>react</h3>
-      <h1>Omari Sharpe</h1>
       <h1>Romey Rome</h1>
+      <h1>MG Miranda</h1>
+      <h1>Omari Sharpe ✔</h1>
     </div>
   )
 }
