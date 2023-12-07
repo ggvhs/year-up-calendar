@@ -1,18 +1,18 @@
 # Year Up Calendar (subject to name change)
 
 
-## Purpose
 
-This projet serves as every contributors first collaborative project using the MERN stack 
 
-### Needs
+
+
+## Needs
 
 -A function calendar
 
 -Readable interface 
 
 
-#### Set dates
+### Set dates
 
 - When a date is set it is reflected in the UI
 
@@ -21,4 +21,3 @@ This projet serves as every contributors first collaborative project using the M
 - Some form of notification when user double books a date time 
 
 
-### Wants 
