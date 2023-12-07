@@ -1,8 +1,24 @@
-# React + Vite
+# Year Up Calendar (subject to name change)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This projet serves as every contributors first collaborative project using the MERN stack 
+
+### Needs
+
+-A function calendar
+
+-Readable interface 
+
+
+#### Set dates
+
+- When a date is set it is reflected in the UI
+
+- Overview of events for the current day in cronological order (As a sidebar ui component)
+
+- Some form of notification when user double books a date time 
+
+
+### Wants 
